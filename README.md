@@ -2,7 +2,7 @@
 
 **Game Title**: Kitfoye
 
-![Kifoye](https://github.com/user-attachments/assets/fb259a97-c098-4c17-89cb-d3d74334d45f)
+![Kifoye](https://github.com/user-attachments/assets/1d03c698-ab80-49a6-a763-af609c41c9ea)
 
 
 **Description**:
@@ -14,7 +14,7 @@ In *Kitfoye*, players embark on a journey through the scenic landscapes, traditi
 ![Game Play 1](https://github.com/user-attachments/assets/0f519d1b-4c0d-45d3-9633-05eadf207676)
 
 
-![Game Play 2](https://github.com/user-attachments/assets/65d693f7-3488-43f6-9c46-c8cb6b40e8aa)
+![Game Play 2](https://github.com/user-attachments/assets/b72d8d72-0d67-475b-9cc6-8bc2500714a4)
 
 
 **Features**:
