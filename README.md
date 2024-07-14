@@ -14,7 +14,7 @@ In *Kitfoye*, players embark on a journey through the scenic landscapes, traditi
 ![Game Play 1](https://github.com/user-attachments/assets/0f519d1b-4c0d-45d3-9633-05eadf207676)
 
 
-![Game Play 2](https://github.com/user-attachments/assets/b72d8d72-0d67-475b-9cc6-8bc2500714a4)
+![Game Play 2](https://github.com/user-attachments/assets/3f3f1913-c537-4328-808a-a383fdf338ea)
 
 
 **Features**:
