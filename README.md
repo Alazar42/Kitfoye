@@ -2,7 +2,8 @@
 
 **Game Title**: Kitfoye
 
-[Kifoye](https://files.fm/f/kqdr69h563)
+![Kifoye](https://github.com/user-attachments/assets/fb259a97-c098-4c17-89cb-d3d74334d45f)
+
 
 **Description**:
 Immerse yourself in the vibrant and rich culture of the Gurage people with *Kitfoye*, a captivating virtual reality experience that takes you on a cultural tour and quiz adventure. 
@@ -10,9 +11,11 @@ Immerse yourself in the vibrant and rich culture of the Gurage people with *Kitf
 **Gameplay**:
 In *Kitfoye*, players embark on a journey through the scenic landscapes, traditional villages, and historical landmarks of the Gurage region. Guided by a knowledgeable local, you will explore various aspects of Gurage culture, including their unique language, traditional dances, music, culinary arts, and customs.
 
-[Game Play 1](https://files.fm/f/pe94hbmnp5)
+![Game Play 1](https://github.com/user-attachments/assets/0f519d1b-4c0d-45d3-9633-05eadf207676)
 
-[Game Play 2](https://files.fm/f/7jvkx4ct7c)
+
+![Game Play 2](https://github.com/user-attachments/assets/65d693f7-3488-43f6-9c46-c8cb6b40e8aa)
+
 
 **Features**:
 
