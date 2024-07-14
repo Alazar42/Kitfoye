@@ -1,12 +1,18 @@
-### Kitfoye: A Virtual Reality Cultural Adventure
+# Kitfoye: A Virtual Reality Cultural Adventure
 
 **Game Title**: Kitfoye
+
+[Kifoye](https://files.fm/f/kqdr69h563)
 
 **Description**:
 Immerse yourself in the vibrant and rich culture of the Gurage people with *Kitfoye*, a captivating virtual reality experience that takes you on a cultural tour and quiz adventure. 
 
 **Gameplay**:
 In *Kitfoye*, players embark on a journey through the scenic landscapes, traditional villages, and historical landmarks of the Gurage region. Guided by a knowledgeable local, you will explore various aspects of Gurage culture, including their unique language, traditional dances, music, culinary arts, and customs.
+
+[Game Play 1](https://files.fm/f/pe94hbmnp5)
+
+[Game Play 2](https://files.fm/f/7jvkx4ct7c)
 
 **Features**:
 
